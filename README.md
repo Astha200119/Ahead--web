@@ -1,5 +1,7 @@
 # Ahead--web
 
+The webpage looks appropriate when forced zoom to 100%
+
 ![Screenshot (26)](https://github.com/Astha200119/Ahead--web/assets/84278765/9fe369b3-def0-4563-9440-8b0d9057af21)
 ![Screenshot (27)](https://github.com/Astha200119/Ahead--web/assets/84278765/a33e1ee1-95b1-465e-8ab3-cd978923a444)
 ![Screenshot (28)](https://github.com/Astha200119/Ahead--web/assets/84278765/5ac36891-1656-4770-88e0-1ba798d2b9c0)
